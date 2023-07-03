@@ -2,3 +2,5 @@ new content
 test
 this
 bug fixed
+
+new line added from remote
